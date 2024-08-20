@@ -8,6 +8,7 @@ public class ClassInit {
     }
     private static int j = 311;
     public static void main(String[] args) {
+        String a = "";
         new ClassInit();
         System.out.println(j);
     }
